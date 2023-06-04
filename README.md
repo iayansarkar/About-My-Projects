@@ -21,15 +21,16 @@
 
 </div>
 
-## Language
-
-<code>Java</code> ♾ <code>Python</code> ♾ <code>HTML</code> ♾ <code>CSS</code> ♾ <code>JavaScript</code><br>
+## Online Examination Platform:
+- 
+-
+-
 
 ## Framework:
-<code>WordPress</code> ♾ <code>React</code><br>
+
 
 ## Analytics:
-<code>Excel</code> ♾ <code>SQL</code> ♾ <code>Power BI</code> ♾ <code>Tableau</code><br>
+
 
 ---
 <div align="center"><br>
