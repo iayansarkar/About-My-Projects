@@ -22,7 +22,7 @@
 </div>
 
 ## Online Examination Platform:
-- <b>Stack Used:</b> PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
+- <b><u>Stack Used:</u></b> PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
 - Full Project File E-Book: <button>View Now!</button>
 - Live Demo: <button>View</button>
 - Contributors: Ayan Sarkar, Shaikh Pavel Zubin Nawaz, Dipanita Ghosh, Priyanka, Sayantan Bhattacharjee
