@@ -22,7 +22,7 @@
 </div>
 
 ## Online Examination Platform:
-<ul>
+<ol>
  Stack Used: PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
  Full Project File E-Book: <button>View Now!</button>
  Live Demo: <button>View</button>
@@ -34,7 +34,7 @@
  Organization Name: Techno India University
  Submitted By: 19 May 2023
  Mentor Guide By: Sukumar Chakraborty (Assistant Professor - AI Department)
-</ul>
+</ol>
 
 
 
