@@ -34,9 +34,9 @@
 - Submitted By: 19 May 2023
 - Mentor Guide By: Sukumar Chakraborty (Assistant Professor - AI Department)<br>
 
-## Store Data Analysis
-
-
+## Store Data Analysis:
+- Stack Used: PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
+- Full Project File E-Book: <button>View Now!</button>
 
 
 
