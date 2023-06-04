@@ -22,19 +22,17 @@
 </div>
 
 ## Online Examination Platform:
-<ol>
- Stack Used: PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
- Full Project File E-Book: <button>View Now!</button>
- Live Demo: <button>View</button>
- Contributors: Ayan Sarkar, Shaikh Pavel Zubin Nawaz, Dipanita Ghosh, Priyanka, Sayantan Bhattacharjee
- Description: Coming Soon....
- Last Update: 19 May 2023
- Project Status: On Going
- Project Offered: Techno India University - Final Year Project - 2023
- Organization Name: Techno India University
- Submitted By: 19 May 2023
- Mentor Guide By: Sukumar Chakraborty (Assistant Professor - AI Department)
-</ol>
+- Stack Used: PHP, HTML, CSS, JavaScript, MySQL, CodeIgniter Framework
+- Full Project File E-Book: <button>View Now!</button>
+- Live Demo: <button>View</button>
+- Contributors: Ayan Sarkar, Shaikh Pavel Zubin Nawaz, Dipanita Ghosh, Priyanka, Sayantan Bhattacharjee
+- Description: Coming Soon....
+- Last Update: 19 May 2023
+- Project Status: On Going
+- Project Offered: Techno India University - Final Year Project - 2023
+- Organization Name: Techno India University
+- Submitted By: 19 May 2023
+- Mentor Guide By: Sukumar Chakraborty (Assistant Professor - AI Department)
 
 
 
